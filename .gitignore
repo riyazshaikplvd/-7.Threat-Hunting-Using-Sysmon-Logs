@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sysmon binaries (download separately, don't commit large binaries)
+Sysmon64.exe
+Sysmon.exe
+
+# Logs that may contain real sensitive data (only sample/ logs should be committed)
+logs/real/
+*.evtx
+
+# Editor files
+.vscode/
+*.swp
