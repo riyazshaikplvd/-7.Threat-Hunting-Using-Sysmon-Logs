@@ -1,1 +1,1 @@
-# -7.Threat-Hunting-Using-Sysmon-Logs
+7.Threat-Hunting-Using-Sysmon-Logs
