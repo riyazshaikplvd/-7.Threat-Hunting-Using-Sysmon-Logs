@@ -4,7 +4,7 @@
 
 [![SOC](https://img.shields.io/badge/Role-SOC%20Analyst%20L1-blue)](https://github.com/riyazshaikplvd)
 [![MITRE](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-red)](https://attack.mitre.org/)
-[![Tools](https://img.shields.io/badge/Tools-Sysmon%20%7C%20Splunk-Universal-Forwarder%20%7C%20Splunk-green)](https://github.com/riyazshaikplvd)
+[![Tools](https://img.shields.io/badge/Tools-Sysmon%20%7C%20Splunk%20%7C%20Splunk-green)](https://github.com/riyazshaikplvd)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/riyazshaikplvd)
 
 ---
